@@ -1,1 +1,1 @@
-# echo-server-rs
+# Free AI at api.airforce
